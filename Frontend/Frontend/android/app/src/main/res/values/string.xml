@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mapbus</string>
+    <string name="facebook_app_id">625646050181478</string>
+    <string name="fb_login_protocol_scheme">fb625646050181478</string>
+    <string name="facebook_client_token">cd0e6d00919b15df2a12083629e1a5ad</string>
+
+
+</resources>

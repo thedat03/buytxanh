@@ -1,0 +1,1 @@
+ALTER TABLE bus_station ADD COLUMN sequence INT DEFAULT 0; 
